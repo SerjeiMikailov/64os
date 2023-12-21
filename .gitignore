@@ -4,6 +4,7 @@
 *.c.d
 *.c.o
 
+/flanterm
 /bin
 /iso_root
 /limine
