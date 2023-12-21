@@ -1,0 +1,10 @@
+*.
+64os
+*.iso
+*.c.d
+*.c.o
+
+/bin
+/iso_root
+/limine
+/obj
